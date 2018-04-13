@@ -1,0 +1,20 @@
+body{
+background-color: black;
+font-family:arial;
+font-size:16px;
+line-height: 30px;
+color: grey;
+margin:0 auto;
+width:1000px;
+}
+
+
+#imagegallery img {
+  margin-top: 12px;
+  margin-bottom: 12px;
+  }
+
+.padding-0 {
+  padding-right:0;
+  padding-left:0;
+}
